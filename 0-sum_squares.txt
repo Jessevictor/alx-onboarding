@@ -1,0 +1,3 @@
+// Let the counter be 0
+// Let the sum of squares be NaN 
+// Add counter with NaN 
