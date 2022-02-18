@@ -1,0 +1,9 @@
+//INT sum 
+//INT n
+//PRINT add number,add negative number to stop
+//WHILE give it a number 1
+//SCANF MOD d & INT n
+   //IF n < 0 
+       //break;
+    //sum + = n;
+//PRINTF sum = MOD d , sum;
